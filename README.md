@@ -28,19 +28,19 @@ Libraries Used:
 pandas, re, unicodedata, streamlit
 
 ## 🚀 How to Run
-# Clone the repository
+### Clone the repository
 git clone https://github.com/vaishnavibhamare-24/ATS-Resume-Keyword-Analyzer.git
 
-# Navigate into the folder
+### Navigate into the folder
 cd ATS-Resume-Keyword-Analyzer
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Run the Streamlit app
+### Run the Streamlit app
 streamlit run app.py
 
-## 📈 Output Example
+### 📈 Output Example
 
 Match Score: 82%
 
