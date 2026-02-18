@@ -51,4 +51,5 @@ Suggestions: Add DAX usage example; include SQL query optimization project.
 ## 👩‍💻 Author
 
 Vaishnavi Bhamare
-MS in Advanced Data Analytics, University of North Texas
+MS in Advanced Data Analytics
+
